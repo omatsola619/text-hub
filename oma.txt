@@ -1,1 +1,2 @@
-this is just a text file to test my knowledge in git and github
+this is just a text file to test my knowledge in git and github it is not a new thing to me,
+but i want to be strong in it
